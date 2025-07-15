@@ -34,14 +34,14 @@ This repository presents an interactive data visualization dashboard analyzing t
 - `Snapshot.png`: The exported dashboard image.
 - `README.md`: Documentation of the project.
 
-## 📈 Future Enhancements
+## 📈 Future Enhancements.
 
 - Interactive web-based dashboard (Tableau Public / Power BI Embedded)
 - Addition of filters for actor, director, or language
 - Analysis of viewer trends and user ratings
 
 
-### 📬 Contact
+### 📬 Contact.
 
 For questions or collaboration, feel free to reach out via GitHub Issues or open a pull request.
 
